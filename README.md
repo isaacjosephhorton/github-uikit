@@ -1,9 +1,8 @@
 # Github-UiKit
 
+## Project renamed to MINIML and moved to https://github.com/st4rlab/miniml/ development has moved to this repo and this will be kept here for archive purposes only. Please use the updated version preview viewable here: https://st4rlab.github.io/miniml/
 
 ## Build Responsive Websites Fast with Github-Uikit (Gu.)
-
-![Github-Uikit](/screenshot.jpg)
 
 # Demo site
 This site is it's own demo. [Github-UiKit](https://isaacjosephhorton.github.io/github-uikit/)
